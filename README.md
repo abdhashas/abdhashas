@@ -37,7 +37,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 - **[House Price Prediction](https://github.com)**  
   *Predictive regression models utilizing comprehensive feature engineering on real estate features, evaluated using MAE and R² scores.*
 
-#### 🖼️ Computer Vision & Full-Stack Backend
+#### 🖼️ Computer Vision & Backend Infrastructure
 - **[Automated Jigsaw Puzzle Solver](https://github.com)**  
   *A desktop GUI app leveraging OpenCV morphological segmentations, SIFT/ORB feature matching, and Harris corners to dynamically resolve multi-piece puzzles.*
 - **[Image Classification Pipeline (MLP)](https://github.com)**  
@@ -48,7 +48,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn**: [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn**: [://linkedin.com](https://://linkedin.com/)
 - 📧 **Email**: `abd.hashas@gmail.com`
 - 🏆 **Codeforces**: [Abdal-raoof2001](https://codeforces.com)
 
