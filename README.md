@@ -48,7 +48,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn**: [://linkedin.com](https://://linkedin.com/)
+- 💼 **LinkedIn**: [abd-alraoof-hashas](https://linkedin.com)
 - 📧 **Email**: `abd.hashas@gmail.com`
 - 🏆 **Codeforces**: [Abdal-raoof2001](https://codeforces.com)
 
