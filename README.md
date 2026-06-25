@@ -9,11 +9,11 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **AI & Machine Learning** | `Python`, `C++`, `Machine Learning`, `Deep Learning`, `scikit-learn`, `TensorFlow`, `Keras`, `Pandas`, `NumPy` |
+| **AI & Machine Learning** | `Python`, `Machine Learning`, `Deep Learning`, `scikit-learn`, `TensorFlow`, `Keras`, `Pandas`, `NumPy` |
 | **Natural Language Processing** | `Arabic NLP Pipelines`, `Named Entity Recognition (NER)`, `BiLSTM`, `Seq2Seq + Attention`, `Word2Vec`, `NLTK` |
 | **Computer Vision** | `OpenCV`, `Image Classification`, `Image Segmentation`, `SIFT / ORB Feature Matching`, `Harris Corner Detection` |
 | **Backend & Databases** | `Laravel`, `Flask`, `Django`, `MySQL`, `MongoDB`, `RESTful API Design`, `UML Diagrams` |
-| **Developer Tools** | `Git`, `GitHub`, `Jupyter Notebook`, `VS Code` |
+| **Core Languages & Tools** | `C++ (OOP & Problem Solving)`, `Git`, `GitHub`, `Jupyter Notebook`, `VS Code` |
 
 ---
 
