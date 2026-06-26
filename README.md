@@ -32,24 +32,24 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 #### 🚗 Data Science & Intelligent Decision Systems
 - **[Chicago Traffic Crashes Data Mining](https://github.com/abdhashas/chicago-traffic-crashes-data-mining)**  
   *An end-to-end data pipeline implementing machine learning classification for crash severity predictions, clustering for hotspots, and Apriori association rules.*
-- **[Fuzzy Logic Restaurant Recommendation]((https://github.com/abdhashas/restaurant-fuzzy-recommendation))**  
+- **[Fuzzy Logic Restaurant Recommendation](https://github.com/abdhashas/restaurant-fuzzy-recommendation)**  
   *A rule-based Fuzzy Inference System (FIS) utilizing spatial distance and price filters to recommend venues, integrated with interactive Folium maps.*
-- **[House Price Prediction](https://github.com)**  
+- **[House Price Prediction](https://github.com/abdhashas/house-price-prediction)**  
   *Predictive regression models utilizing comprehensive feature engineering on real estate features, evaluated using MAE and R² scores.*
 
 #### 🖼️ Computer Vision & Backend Infrastructure
-- **[Automated Jigsaw Puzzle Solver](https://github.com)**  
+- **[Automated Jigsaw Puzzle Solver](https://github.com/abdhashas/jigsaw-puzzle-solver-gui)**  
   *A desktop GUI app leveraging OpenCV morphological segmentations, SIFT/ORB feature matching, and Harris corners to dynamically resolve multi-piece puzzles.*
-- **[Image Classification Pipeline (MLP)](https://github.com)**  
+- **[Image Classification Pipeline (MLP)](https://github.com/abdhashas/Image-classification)**  
   *Image classification pipeline exploring manual parameter tuning, automated Keras frameworks, and CNN/MLP architectures for optimal feature extraction.*
-- **[E-commerce Marketplace Backend API](https://github.com)**  
+- **[E-commerce Marketplace Backend API](https://github.com/abdhashas/marketplace-backend)**  
   *Scalable, relational, production-grade RESTful backend system built with Laravel and MySQL, handling vendor workflows and secure order structures.*
 
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn**: [abd-alraoof-hashas](https://linkedin.com)
+- 💼 **LinkedIn**: [abd-alraoof-hashas](linkedin.com/in/abd-alraoof-hashas/)
 - 📧 **Email**: `abd.hashas@gmail.com`
-- 🏆 **Codeforces**: [Abdal-raoof2001](https://codeforces.com)
+- 🏆 **Codeforces**: [Abdal-raoof2001](codeforces.com/profile/Abdal-raoof2001 )
 
 *“Turning architectural algorithms into clean, scalable, and impactful solutions.”*
