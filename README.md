@@ -20,7 +20,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 ### 🚀 Featured Portfolio Projects (From My CV)
 
 #### 🧠 Natural Language Processing (NLP) & Audio
-- **[Arabic Speech Signal Analysis & Synthesis](https://github.com)**  
+- **[Arabic Speech Signal Analysis & Synthesis]([https://github.com](https://github.com/abdhashas/arabic-speech-analysis-synthesis-backend))**  
   *Robust Flask-based backend API integrated with advanced speech algorithms (LPC, DWT, WPT) for audio feature analysis and modifications.*
 - **[Arabic Sequence Models & NER](https://github.com)**  
   *Deep learning sequence architectures implementing BiLSTM for Named Entity Recognition and Seq2Seq with Attention for automated text correction.*
