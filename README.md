@@ -22,17 +22,17 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 #### 🧠 Natural Language Processing (NLP) & Audio
 - **[Arabic Speech Signal Analysis & Synthesis](https://github.com/abdhashas/arabic-speech-analysis-synthesis-backend)**  
   *Robust Flask-based backend API integrated with advanced speech algorithms (LPC, DWT, WPT) for audio feature analysis and modifications.*
-- **[Arabic Sequence Models & NER](https://github.com)**  
+- **[Arabic Sequence Models & NER](https://github.com/abdhashas/arabic-nlp-sequence-models)**  
   *Deep learning sequence architectures implementing BiLSTM for Named Entity Recognition and Seq2Seq with Attention for automated text correction.*
-- **[Arabic Text Classification & Chatbot Core](https://github.com)**  
+- **[Arabic Text Classification & Chatbot Core](https://github.com/abdhashas/arabic-text-classification-deep-learning)**  
   *Advanced Arabic NLP pipeline utilizing text tokenization, Word2Vec Skip-Gram embeddings, and a Text-CNN model for accurate intent classification.*
-- **[Python Code Generation from English Text](https://github.com)**  
+- **[Python Code Generation from English Text](https://github.com/abdhashas/python-code-generation-from-english-free-text)**  
   *NLP syntax-parsing engine designed to map and translate natural English instructions directly into functional Python code snippets.*
 
 #### 🚗 Data Science & Intelligent Decision Systems
-- **[Chicago Traffic Crashes Data Mining](https://github.com)**  
+- **[Chicago Traffic Crashes Data Mining](https://github.com/abdhashas/chicago-traffic-crashes-data-mining)**  
   *An end-to-end data pipeline implementing machine learning classification for crash severity predictions, clustering for hotspots, and Apriori association rules.*
-- **[Fuzzy Logic Restaurant Recommendation](https://github.com)**  
+- **[Fuzzy Logic Restaurant Recommendation]((https://github.com/abdhashas/restaurant-fuzzy-recommendation))**  
   *A rule-based Fuzzy Inference System (FIS) utilizing spatial distance and price filters to recommend venues, integrated with interactive Folium maps.*
 - **[House Price Prediction](https://github.com)**  
   *Predictive regression models utilizing comprehensive feature engineering on real estate features, evaluated using MAE and R² scores.*
