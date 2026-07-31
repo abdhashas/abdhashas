@@ -23,7 +23,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 - **[Arabic Speech Signal Analysis & Synthesis](https://github.com/abdhashas/arabic-speech-analysis-synthesis-backend)**  
   *Robust Flask-based backend API integrated with advanced speech algorithms (LPC, DWT, WPT) for audio feature analysis and modifications.*
 - **[Arabic Sequence Models & NER](https://github.com/abdhashas/arabic-nlp-sequence-models)**  
-  *Deep learning sequence architectures implementing BiLSTM for Named Entity Recognition and Seq2Seq with Attention for automated text correction.*
+  *Deep learning sequence architectures implementing BiLSTM for Named Entity Recognition and AraGPT2 for Medical Question Answering with advanced text decoding strategies.*
 - **[Arabic Text Classification & Chatbot Core](https://github.com/abdhashas/arabic-text-classification-deep-learning)**  
   *Advanced Arabic NLP pipeline utilizing text tokenization, Word2Vec Skip-Gram embeddings, and a Text-CNN model for accurate intent classification.*
 - **[Python Code Generation from English Text](https://github.com/abdhashas/python-code-generation-from-english-free-text)**  
