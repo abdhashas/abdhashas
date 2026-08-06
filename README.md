@@ -10,6 +10,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 | Category | Technologies & Frameworks |
 | :--- | :--- |
 | **AI & Machine Learning** | `Python`, `Machine Learning`, `Deep Learning`, `scikit-learn`, `TensorFlow`, `Keras`, `Pandas`, `NumPy` |
+| **AI Agents** | `LangGraph`, `Agentic Workflows` |
 | **Natural Language Processing** | `Arabic NLP Pipelines`, `Named Entity Recognition (NER)`, `BiLSTM`, `Seq2Seq + Attention`, `Word2Vec`, `NLTK` |
 | **Computer Vision** | `OpenCV`, `Image Classification`, `Image Segmentation`, `SIFT / ORB Feature Matching`, `Harris Corner Detection` |
 | **Backend & Databases** | `Laravel`, `Flask`, `Django`, `MySQL`, `MongoDB`, `RESTful API Design`, `UML Diagrams` |
@@ -38,6 +39,10 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
   *Predictive regression models utilizing comprehensive feature engineering on real estate features, evaluated using MAE and R² scores.*
 
 #### 🖼️ Computer Vision & Backend Infrastructure
+- **Glaucoma Detection Using Optic Nerve Images** *(Private Repo — Available on Request)*  
+  *Hybrid pipeline combining Deep Learning (VGG16/VGG19) with handcrafted features (ORB, 3D HSV Histogram) for glaucoma detection; optimized high-dimensional feature space with PCA reduction and MinMaxScaler-boosted classifier throughput.*
+- **Novel Data Augmentation & Wavelet-Based Glaucoma Classification** *(Research Paper — Forthcoming)*  
+  *Co-authored clinical paper on ResNet101/ResNet50/VGG networks with proprietary patient-derived OCT datasets; implemented image preprocessing with 2-D Discrete Wavelet Transform (bior1.3) feature augmentation for low-frequency data, achieving a peak 0.99 AUC / 98.8% accuracy / 98.4% sensitivity / 0.975 MCC with empirical ablation benchmarking.*
 - **[Automated Jigsaw Puzzle Solver](https://github.com/abdhashas/jigsaw-puzzle-solver-gui)**  
   *A desktop GUI app leveraging OpenCV morphological segmentations, SIFT/ORB feature matching, and Harris corners to dynamically resolve multi-piece puzzles.*
 - **[Image Classification Pipeline (MLP)](https://github.com/abdhashas/Image-classification)**  
@@ -50,6 +55,6 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 ### 🌐 Connect with Me
 - 💼 **LinkedIn**: [abd-alraoof-hashas](https://linkedin.com/in/abd-alraoof-hashas/)
 - 📧 **Email**: `abd.hashas@gmail.com`
-- 🏆 **Codeforces**: [Abdal-raoof2001](https://codeforces.com/profile/Abdal-raoof2001 )
+- 🏆 **Codeforces**: [Abdal-raoof2001](https://codeforces.com/profile/Abdal-raoof2001)
 
-*“Turning architectural algorithms into clean, scalable, and impactful solutions.”*
+*"Turning architectural algorithms into clean, scalable, and impactful solutions."*
