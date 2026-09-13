@@ -42,7 +42,7 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
 - **Glaucoma Detection Using Optic Nerve Images** *(Private Repo — Available on Request)*  
   *Hybrid pipeline combining Deep Learning (VGG16/VGG19) with handcrafted features (ORB, 3D HSV Histogram) for glaucoma detection; optimized high-dimensional feature space with PCA reduction and MinMaxScaler-boosted classifier throughput.*
 - **Novel Data Augmentation & Wavelet-Based Glaucoma Classification** *(Research Paper — Forthcoming)*  
-  *Co-authored clinical paper on ResNet101/ResNet50/VGG networks with proprietary patient-derived OCT datasets; implemented image preprocessing with 2-D Discrete Wavelet Transform (bior1.3) feature augmentation for low-frequency data, achieving a peak 0.99 AUC / 98.8% accuracy / 98.4% sensitivity / 0.975 MCC with empirical ablation benchmarking.*
+  *Co-authored clinical paper on DenseNet-121/ResNet50/VGG networks with proprietary patient-derived OCT datasets; implemented image preprocessing with 2-D Discrete Wavelet Transform (bior1.3) feature augmentation for low-frequency data, achieving a peak 0.99 AUC / 98.8% accuracy / 98.4% sensitivity / 0.975 MCC with empirical ablation benchmarking.*
 - **[Automated Jigsaw Puzzle Solver](https://github.com/abdhashas/jigsaw-puzzle-solver-gui)**  
   *A desktop GUI app leveraging OpenCV morphological segmentations, SIFT/ORB feature matching, and Harris corners to dynamically resolve multi-piece puzzles.*
 - **[Image Classification Pipeline (MLP)](https://github.com/abdhashas/Image-classification)**  
