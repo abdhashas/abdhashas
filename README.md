@@ -49,7 +49,11 @@ Highly motivated AI and Machine Learning Engineer specializing in data analysis,
   *Image classification pipeline exploring manual parameter tuning, automated Keras frameworks, and CNN/MLP architectures for optimal feature extraction.*
 - **[E-commerce Marketplace Backend API](https://github.com/abdhashas/marketplace-backend)**  
   *Scalable, relational, production-grade RESTful backend system built with Laravel and MySQL, handling vendor workflows and secure order structures.*
+  
+### 🧩 Applied AI / Full-Stack Projects
 
+- **[MAHER Print Shop — Landing Page & Admin Dashboard](https://github.com/abdhashas/maher-landing)**
+  Full-stack web platform for a print shop client — React (TypeScript, Vite) + Supabase, built hands-on with Claude in Chrome as part of an applied AI/full-stack training session (completed in 4 days). Includes admin dashboard, public ordering flow, PostgreSQL RPC-based coupon logic, and automated email notifications via Supabase Edge Functions.
 ---
 
 ### 🌐 Connect with Me
